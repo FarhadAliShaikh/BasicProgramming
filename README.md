@@ -1,2 +1,3 @@
 # BasicProgramming
-This is test repo
+This is test repositoy.
+Author - Farhad Ali Shaikh
